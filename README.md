@@ -15,7 +15,7 @@ app:
 
 ### No backend code required
 
-Since Firebase is a hosted service, your app can use the Firebase JS library to talk to the Firebase servers directly. In combination with our [flexible security rules](https://www.firebase.com/docs/security/quickstart.html) that control access to data, this means that in many cases you don't need any backend code at all to write a production ready app.
+Since Firebase is a hosted service, your app can use the Firebase JS library to talk to the Firebase servers directly. In combination with our [flexible security rules](https://www.firebase.com/docs/security/quickstart.html) that control access to data, this means that in many cases you don't need any backend code at all to write a production ready app!
 
 ### Authentication
 
